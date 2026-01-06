@@ -13,7 +13,8 @@ The LEAF++ dataset is an extended version of the original LEAF dataset by Behzad
 
 ## Citation
 If you find this work useful for your work, please cite our paper:
-<code>
+
+```bibtex
 @article{misgna2025leaf++,
   title={LEAF++: Trait-Annotated Essay Feedback Dataset with Validation of Trait Scores via LLMs},
   author={Misgna, Haile and On, Byung-Won and Lee, Ingyu and Choi, Gyu Sang},
@@ -21,4 +22,4 @@ If you find this work useful for your work, please cite our paper:
   year={2025},
   publisher={IEEE}
 }
-</code>
+
