@@ -11,3 +11,14 @@ The LEAF++ dataset is an extended version of the original LEAF dataset by Behzad
 - <code>clarity_of_view_point</code>: Score on the clarity of the author's point of view.  
 - <code>arguments_supporting_details</code>: Score on arguments and supporting details in the essay.  
 
+## Citation
+If you find this work useful for your work, please cite our paper:
+<code>
+@article{misgna2025leaf++,
+  title={LEAF++: Trait-Annotated Essay Feedback Dataset with Validation of Trait Scores via LLMs},
+  author={Misgna, Haile and On, Byung-Won and Lee, Ingyu and Choi, Gyu Sang},
+  journal={IEEE Access},
+  year={2025},
+  publisher={IEEE}
+}
+</code>
